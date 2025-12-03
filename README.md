@@ -176,9 +176,9 @@ This will:
 
 - Sync the schema,
 - Insert a couple of demo `products` with a live sale window,
-- Create an admin user:
-  - **email:** `admin@example.com`
-  - **password:** `admin123`
+- Create an admin user (from env):
+  - **email:** `ADMIN_EMAIL` from `.env` (default `admin@example.com`)
+  - **password:** `ADMIN_PASSWORD` from `.env` (default `admin123`)
 
 #### Running the frontend
 
