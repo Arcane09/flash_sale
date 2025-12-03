@@ -244,4 +244,43 @@ Use these to validate the system end‑to‑end:
   - From another browser, perform holds and confirms.
   - Expected: pending/confirmed/expired stats, chart, and inventory table update every 5 seconds without refresh.
 
+## 📸 Screenshots
+
+Below are the screenshots of my assessment pages for easy reference:
+
+1) Dashboard Page :-
+   <img width="1366" height="663" alt="image" src="https://github.com/user-attachments/assets/7233239b-ce24-4dde-a85f-d0443ab44dbb" />
+
+2) Login Page :-
+
+   <img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/05ce4f69-5605-479d-9131-fbde676acd09" />
+
+3) Purchase Page :-
+
+   <img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/e36b0051-8262-4b23-b19d-e0d1ba7fcae8" />
+
+4) Oders And checkout Page :-
+
+   <img width="1366" height="668" alt="image" src="https://github.com/user-attachments/assets/db660e15-27b6-4ed1-a84b-483ac311eecd" />
+
+5) Order confirm toastify message :-
+
+   <img width="1366" height="691" alt="image" src="https://github.com/user-attachments/assets/7b02a505-3472-426e-996d-33a7da7882bd" />
+
+6) Admin Products Dashboard :-
+
+   <img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/6d585f10-a3d4-42ca-9410-aa43cc15ffd7" />
+
+7) Admin Real time Inventory Dashboard for analysis :-
+
+   <img width="1364" height="581" alt="image" src="https://github.com/user-attachments/assets/16de003a-953b-4bfd-84aa-bdb14f8b8d34" />
+
+   <img width="1351" height="390" alt="image" src="https://github.com/user-attachments/assets/d44b0e1e-c8be-40df-872e-5f825232e128" />
+
+
+
+
+
+
+
 
