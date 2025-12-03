@@ -111,6 +111,8 @@ REDIS_URL=redis://localhost:6379
 # Auth / CORS
 JWT_SECRET=super_secret_jwt_key_change_me
 CORS_ORIGIN=http://localhost:5173
+ADMIN_EMAIL=admin@gmail.com
+ADMIN_PASSWORD=Admin@123
 ```
 
 ---
